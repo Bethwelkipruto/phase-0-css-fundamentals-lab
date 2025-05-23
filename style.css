@@ -3,3 +3,48 @@ body {
   height: 100%;
   margin: 0;
 }
+img {
+  display: block;
+  margin: auto;
+}
+.header{
+  text-align: center;
+}
+nav a {
+padding-right: 10px;
+padding-left: 10px;
+
+}
+.nav{
+  text-align: center;
+  color: rgb(red, green, blue);
+  padding: 2%;
+}
+#details{
+  display: flex;
+  align-content: center;
+  background-color: grey;
+  color: #000;
+  padding: 4%;
+}
+#details{
+  display: flex;
+  align-content: center;
+  background-color: grey;
+  color: #000;
+  padding: 4%;
+}
+#details div{
+  width: 25%;
+  text-align: center;
+}
+#featured-property p {
+width: 800px;
+margin: auto;
+margin-bottom: 3%;
+}
+figcaption{
+  font-size: small;
+  text-align: center;
+  margin-bottom: 2%;
+}
